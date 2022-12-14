@@ -11,6 +11,7 @@ Outside of my course material, my niche computer science interests are machine l
 
 - **Machine Learning**:
 > Link to Project in a Box Presentation/Explanation: [Original Presentation](https://docs.google.com/presentation/d/179JoC_yrgj0md5ZY4mv-6Z3y68bmQp-VfiTrw7TPuGg/edit?usp=sharing)
+
 > Link to the Colab notebook: [My Colab Notebook](https://colab.research.google.com/drive/10AS6kLALc1kVNHDCh3vZKkz8BK1yoJGS?usp=sharing)
 - **App Development**: 
 - **Pathfinding**:
