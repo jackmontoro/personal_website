@@ -10,7 +10,7 @@ I am currently a student at University of California San Diego and an officer in
 Outside of my course material, my niche computer science interests are machine learning, data manipulation through Pandas in Google Colab and pathfinding algorithms. Some of my projects can be viewed here:
 
 - **Machine Learning**:
-> Link to the Colab notebook: ![Machine Learning](https://colab.research.google.com/drive/10AS6kLALc1kVNHDCh3vZKkz8BK1yoJGS?usp=sharing)
+> Link to the Colab notebook: [Machine Learning](https://colab.research.google.com/drive/10AS6kLALc1kVNHDCh3vZKkz8BK1yoJGS?usp=sharing)
 - **App Development**: 
 - **Pathfinding**:
 - **3D Computer Graphics Visual Studio**:
