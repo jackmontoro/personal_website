@@ -16,4 +16,3 @@ Outside of my course material, my niche computer science interests are machine l
 
 When I am not studying or working on projects and assignments, I enjoy cooking with my family, taking a walk on the beach and going for a swim or reading interesting books about history, philosophy, and political economy. 
 
-theme: Millenial
