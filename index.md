@@ -15,6 +15,8 @@ Outside of my course material, my niche computer science interests are machine l
 > Link to the Colab notebook: [My Colab Notebook](https://colab.research.google.com/drive/10AS6kLALc1kVNHDCh3vZKkz8BK1yoJGS?usp=sharing)
 - **App Development**: 
 - **Pathfinding**:
+> Link to Project in a Box Presentation: [Original Presentation](https://docs.google.com/presentation/d/1CCxulX4TpCFEf8zDOkXwelqzt51hfb_cFx2F-Ye85sA/edit#slide=id.g12685f7e956_0_29)
+
 - **3D Computer Graphics Visual Studio**:
 
 When I am not studying or working on projects and assignments, I enjoy cooking with my family, taking a walk on the beach and going for a swim or reading interesting books about history, philosophy, and political economy. 
