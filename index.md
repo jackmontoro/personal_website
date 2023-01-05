@@ -7,7 +7,7 @@ I am glad you are here! Allow me to introduce myself.
 
 I am currently a student at University of California San Diego and an officer in the engineering club Project in a Box. I am full time student, graduating Spring 2023 with a Bachelor's of Science in Math Computer Science, but I am excited to get involved in the industry and develop new skills. I greatly enjoy problem solving, and thrive when I challenge myself to step out of my comfort zone: academically, professionally and intellectually. 
 
-Outside of my course material, my niche computer science interests are machine learning, data manipulation through Pandas in Google Colab and pathfinding algorithms. Some of my projects can be viewed here:
+Outside of my course material, my niche computer science interests are machine learning, data manipulation through Pandas in Google Colab and pathfinding algorithms related to graph theory. Some of my projects can be viewed here:
 
 - **Machine Learning**:
 
@@ -21,9 +21,6 @@ Outside of my course material, my niche computer science interests are machine l
 
 > Link to Google Drive file with Android Program: [App Source Code](https://drive.google.com/drive/folders/1BD37I6iNENAaSYNYjtLgQVoPFYSYcIJk?usp=sharing)
 
-- **Pathfinding**:
-
-> Link to Project in a Box Presentation: [PiB Presentation](https://docs.google.com/presentation/d/1CCxulX4TpCFEf8zDOkXwelqzt51hfb_cFx2F-Ye85sA/edit#slide=id.g12685f7e956_0_29)
 
 - **3D Computer Graphics Visual Studio**:
 > Will upload soon
