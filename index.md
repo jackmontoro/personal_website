@@ -100,7 +100,7 @@ When I am not studying or working on projects and assignments, I enjoy:
         10. Add your beef stock(or water). Turn heat to low-simmer and crack the lid open. Cook for 3-3.5 hours.
         11. Add your butterbeans and allow them to cook for 4 minutes in the stew.
         * Original video credit: [Jamaican oxtail stew](https://youtu.be/G6h7QeN5-mI) (come here for the ingredients)
-        * ![Jamaican Oxtail Stew cooking](oxtailStew.HEIC)           
+        * ![Jamaican Oxtail Stew cooking](oxtailStew.png)           
 * taking a walk on the beach and going for a swim
 * learning and practicing Portuguese
 * reading interesting books about history, philosophy, and political economy
