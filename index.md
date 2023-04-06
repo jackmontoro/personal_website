@@ -15,7 +15,7 @@ Outside of my course material, my niche computer science interests are machine l
 
 > Link to the Colab notebook: [My Colab Notebook](https://colab.research.google.com/drive/10AS6kLALc1kVNHDCh3vZKkz8BK1yoJGS?usp=sharing)
 
-> K-Means Project and code(in Julia):
+> K-Means Project and code(in Julia) for iris dataset:
 
 ```
 using Pkg
@@ -67,6 +67,11 @@ ylabel!("SSE")
 ### 2 K-Means Clusters
 ![2kmeans](2kmeans.png)
 
+### 3 K-Means Clusters
+![3kmeans](3kmeans.png)
+
+### 4 K-Means Clusters
+![4kmeans](4kmeans.png)
 
 
 - **App Development**: 
