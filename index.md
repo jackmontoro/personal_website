@@ -62,6 +62,7 @@ xlabel!("k value")
 ylabel!("SSE")
 ```
 ![SSEphoto](K-meansSSE.png)
+[SSEphoto](K-meansSSE.png)
 
 
 
