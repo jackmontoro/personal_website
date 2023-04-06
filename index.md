@@ -61,6 +61,7 @@ title!("SSE by k-Value")
 xlabel!("k value")
 ylabel!("SSE")
 ```
+![SSEphoto](K-meansSSE.png)
 
 
 
