@@ -87,6 +87,7 @@ ylabel!("SSE")
 ## Personal Interests
 
 When I am not studying or working on projects and assignments, I enjoy:
+
 *cooking with my family and trying new cuisines
     -Recently, I made Jamaican oxtail soup for the first time. It is very time-consuming, but wonderfully flavorful and rewarding. Here is the recipe:
         1. Wash your oxtails and clean them with lime.
