@@ -89,20 +89,17 @@ ylabel!("SSE")
 When I am not studying or working on projects and assignments, I enjoy:
 *cooking with my family and trying new cuisines
     -Recently, I made Jamaican oxtail soup for the first time. It is very time-consuming, but wonderfully flavorful and rewarding. Here is the recipe:
-            1. Wash your oxtails and clean them with lime.
-            2. Grind up your Haitian Epis Green Sauce in a blender(it smells incredible)
-            3. Add Green Sauce, green onions, red bell pepper, yellow onion browning sauce, soy sauce, olive oil, worcestishire sauce, salt and pepper,
-               onion powder, garlic powder, ginger, thyme, all spice and one habanero pepper to a bowl with the oxtails. Mix around the ingredients to
-               distribute the flavor.
-            4. Marinate the meat with the mix for 2 hours.
-            5. Bring a cooking pot-pan hybrid to medium-high heat and add some cooking oil.
-            6. Add only the oxtails and cook them on each side until brown.
-            7. Add the vegetables and sauce mix.
-            8. Add the ketchup, tomato paste and brown sugar. Stir the ingredients around to distribute flavor.
-            9. Turn the heat to medium. Cook for about 20 minutes.
-            10. Add your beef stock(or water). Turn heat to low-simmer and crack the lid open. Cook for 3-3.5 hours.
-            * Original video credit: [Jamaican oxtail stew](https://youtu.be/G6h7QeN5-mI) (come here for the ingredients)
-            
+        1. Wash your oxtails and clean them with lime.
+        2. Grind up your Haitian Epis Green Sauce in a blender(it smells incredible)
+        3. Add Green Sauce, green onions, red bell pepper, yellow onion browning sauce, soy sauce, olive oil, worcestishire sauce, salt and pepper,onion powder, garlic powder, ginger, thyme, all spice and one habanero pepper to a bowl with the oxtails. Mix around the ingredients to distribute the flavor.
+        4. Marinate the meat with the mix for 2 hours.
+        5. Bring a cooking pot-pan hybrid to medium-high heat and add some cooking oil.
+        6. Add only the oxtails and cook them on each side until brown.
+        7. Add the vegetables and sauce mix.
+        8. Add the ketchup, tomato paste and brown sugar. Stir the ingredients around to distribute flavor.
+        9. Turn the heat to medium. Cook for about 20 minutes.
+        10. Add your beef stock(or water). Turn heat to low-simmer and crack the lid open. Cook for 3-3.5 hours.
+        * Original video credit: [Jamaican oxtail stew](https://youtu.be/G6h7QeN5-mI) (come here for the ingredients)           
 *taking a walk on the beach and going for a swim
 *learning and practicing Portuguese
 *reading interesting books about history, philosophy, and political economy
