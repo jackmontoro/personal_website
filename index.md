@@ -64,6 +64,9 @@ ylabel!("SSE")
 ![SSEphoto](K-meansSSE.png)
 [SSEphoto](K-meansSSE.png)
 
+### 2 K-Means Clusters
+![2kmeans](2kmeans.png)
+
 
 
 - **App Development**: 
@@ -76,7 +79,7 @@ ylabel!("SSE")
 - **3D Computer Graphics Visual Studio**:
 > Will upload soon
 
-### Personal Interests
+## Personal Interests
 
 When I am not studying or working on projects and assignments, I enjoy cooking with my family, taking a walk on the beach and going for a swim or reading interesting books about history, philosophy, and political economy. 
 
