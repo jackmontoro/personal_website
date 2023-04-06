@@ -15,6 +15,55 @@ Outside of my course material, my niche computer science interests are machine l
 
 > Link to the Colab notebook: [My Colab Notebook](https://colab.research.google.com/drive/10AS6kLALc1kVNHDCh3vZKkz8BK1yoJGS?usp=sharing)
 
+> K-Means Project and code(in Julia):
+
+```
+using Pkg
+Pkg.add("CSV")
+Pkg.add("Parsers")
+Pkg.add("StatsBase")
+
+using DataFrames
+using CSV
+using Clustering
+using Plots
+using Statistics
+
+function euclidean_distance(testPt, dataPt)
+    dimension = size(testPt,1)
+    distance = 0
+    for i in 1:dimension
+        distance += (testPt[i] - dataPt[i])^(2)
+    end
+    distance = sqrt(distance)
+    return distance
+end
+
+iris = CSV.read("iris.csv", DataFrame)
+
+X = select(iris, Not([:Species, :Id]))
+
+petalData = collect(Matrix(X)')
+
+K = 1:10
+KM = [kmeans(petalData,k) for k in K]
+
+SSE = zeros(size(KM,1))
+for k in 1:size(KM,1)
+    for i in 1:size(petalData,2)
+        SSE[k] += (euclidean_distance(petalData[:,i], KM[k].centers[:,assignments(KM[k])[i]]))^(2)
+    end
+end
+println(SSE)
+
+plot(K, SSE, legend=false)
+title!("SSE by k-Value")
+xlabel!("k value")
+ylabel!("SSE")
+```
+
+
+
 - **App Development**: 
 
 > Link to Project in a Box Presentation: [PiB Presentation](https://docs.google.com/presentation/d/1FLtB7vovW6FB3Obxmra_GUppXkvL0JFj8phRCv65Ebc/edit?usp=sharing)
